@@ -1,0 +1,16 @@
+{
+    "user_001": {
+      "deep_sleep_hours": 1.2,
+      "rem_sleep_hours": 2.1,
+      "total_sleep_hours": 6.5,
+      "sleep_latency": 25,
+      "wake_times": 3
+    },
+    "user_002": {
+      "deep_sleep_hours": 2.5,
+      "rem_sleep_hours": 1.5,
+      "total_sleep_hours": 7.8,
+      "sleep_latency": 15,
+      "wake_times": 1
+    }
+  }
